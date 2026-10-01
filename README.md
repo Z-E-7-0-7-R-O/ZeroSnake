@@ -67,16 +67,16 @@ To compile and execute ZeroSnake:
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/ZeroSifter_UI-0.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSnake/main/assets/ZeroSifter_UI-0.png" width="800">
   <br><br>
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/ZeroSifter_UI-1.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSnake/main/assets/ZeroSifter_UI-1.png" width="800">
   <p><i>ZeroSnake Operational Dashboard - Displays active port scanning data processed via IOCP.</i></p>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmirGG11OP/Zero-Ai-Native/main/assets/LiveHosts.png" width="800">
+  <img src="https://raw.githubusercontent.com/Z-E-7-0-7-R-O/ZeroSnake/main/assets/LiveHosts.png" width="800">
   <p><i>Sample output interface displaying discovered IPs and associated open ports.</i></p>
 </div>
-  
+
 ## Full Source Code
 ```cpp
 /*
